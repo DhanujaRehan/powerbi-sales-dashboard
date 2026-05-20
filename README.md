@@ -10,7 +10,7 @@ This project analyzes sales performance using Power BI.
 - DAX
 
 ## Dashboard Preview
-![Dashboard](Screenshot 2026-05-20 204340.png)
+![Dashboard](dashboard.png)
 
 ## Author
 Dhanuja Rehan
